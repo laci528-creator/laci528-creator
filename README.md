@@ -39,6 +39,8 @@ I enjoy building practical applications, learning new technologies and improving
 
 ## 🚀 Featured Projects
 
+> **Note:** Some live demos use free hosting services. The first request may take a few seconds while the backend starts up.
+
 ### 🏺 Archaeological Artefact Finder
 A full-stack application for searching archaeological artefacts using the Metropolitan Museum of Art API.
 
