@@ -44,8 +44,7 @@ A full-stack application for searching archaeological artefacts using the Metrop
 
 **Tech:** React, Node.js, Express, MySQL, REST API
 
-[Repository](https://github.com/laci528-creator/archaeological-artefact-finder)  
-[Live Demo](https://archaeological-artefact-finder1.vercel.app)
+[Repository](https://github.com/laci528-creator/archaeological-artefact-finder) • [Live Demo](https://archaeological-artefact-finder11.vercel.app/)
 
 ---
 
@@ -55,7 +54,7 @@ A full-stack webshop application with authentication, shopping cart, stock manag
 
 **Tech:** React, Node.js, Express, PostgreSQL
 
-[Repository](https://github.com/laci528-creator/React-Node-webshop-app)
+[Repository](https://github.com/laci528-creator/React-Node-webshop-app) • [Live Demo](https://react-node-webshop-app.vercel.app/)
 
 ---
 
@@ -65,7 +64,7 @@ A PHP and MySQL appointment booking application with calendar-based booking, ser
 
 **Tech:** PHP, MySQL / MariaDB, HTML, CSS
 
-[Repository](https://github.com/laci528-creator/Termin_booking_app)
+[Repository](https://github.com/laci528-creator/Termin_booking_app) • [Live Demo](https://terminbooking-demo.infinityfreeapp.com/)
 
 ---
 
@@ -75,7 +74,7 @@ A PHP-based image processing toolkit for resizing, converting and watermarking i
 
 **Tech:** PHP, PHP GD, HTML, CSS
 
-[Repository](https://github.com/laci528-creator/PHP-Image-Toolkit)
+[Repository](https://github.com/laci528-creator/PHP-Image-Toolkit) • [Live Demo](https://php-image-toolkit.infinityfreeapp.com/)
 
 ---
 
@@ -85,7 +84,7 @@ A travel planning application using external APIs for city information, weather 
 
 **Tech:** React, Node.js, Express, REST APIs
 
-[Repository](https://github.com/laci528-creator/citytrip-planner-app1)
+[Repository](https://github.com/laci528-creator/citytrip-planner-app1) • [Live Demo](https://citytrip-planner-green.vercel.app/)
 
 ---
 
@@ -109,7 +108,7 @@ A travel planning application using external APIs for city information, weather 
 - Hungarian – Native
 - German – Professional working proficiency
 - English – Working proficiency
-- Serbian - c1
+- Serbian – C1
 
 ---
 
